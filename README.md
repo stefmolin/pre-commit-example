@@ -5,6 +5,8 @@ Example repository for article on setting up pre-commit hooks.
 Python >= 3.8
 
 ## Setup
+**NOTE**: If you choose to use GitHub Codespaces with this repository, you can skip ahead to step 4.
+
 1. Clone this repository and change to the directory for this repository:
 
     ```shell
