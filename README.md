@@ -21,7 +21,11 @@ Python >= 3.8
 3. Activate the virtual environment:
 
     ```shell
+    # bash/zsh
     source venv/bin/activate
+
+    # Windows cmd.exe
+    .\venv\Scripts\activate.bat
     ```
 
 4. Install the package (update `pip` if you encounter errors):
